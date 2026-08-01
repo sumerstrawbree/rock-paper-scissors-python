@@ -1,2 +1,28 @@
-# rock-paper-scissors-python
-My first Python project at 16: a command-line Rock Paper Scissors game created in Pycharm. Includes programming fundamentals such as: variables, conditionals, user input validation, score tracking, replay functionality, and randomization.
+# Rock Paper Scissors Game in Python :3
+
+A command-line Rock Paper Scissors game built with Python in PyCharm, played in the terminal.
+
+## about 
+This is my first GitHub upload! - I practiced Python programming fundamentals by creating a playable Rock Paper Scissors game against the computer.
+
+## features
+- User vs computer gameplay
+- Random computer choices
+- Input validation
+- Score tracking
+- Tie detection
+- Replay option
+- Quit option
+
+## skills practiced
+- Variables
+- While loops
+- Conditional statements
+- User input
+- Randomization
+- Basic game code
+
+## future updates
+- Add a graphical user interface (GUI)
+- Add difficulty levels
+- Save player statistics
